@@ -1,0 +1,3 @@
+C:/Users/rusin/CLionProjects/Sprawdzacz Palindromów/cmake-build-debug/CMakeFiles/Sprawdzacz_Palindromow.dir
+C:/Users/rusin/CLionProjects/Sprawdzacz Palindromów/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rusin/CLionProjects/Sprawdzacz Palindromów/cmake-build-debug/CMakeFiles/rebuild_cache.dir

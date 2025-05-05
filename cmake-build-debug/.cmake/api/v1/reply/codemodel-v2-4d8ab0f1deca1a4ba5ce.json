@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.31"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Sprawdzacz_Palindrom\u00f3w",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Sprawdzacz_Palindromow::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sprawdzacz_Palindromow-Debug-1b820f34bef97b9f6994.json",
+					"name" : "Sprawdzacz_Palindromow",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/rusin/CLionProjects/Sprawdzacz Palindrom\u00f3w/cmake-build-debug",
+		"source" : "C:/Users/rusin/CLionProjects/Sprawdzacz Palindrom\u00f3w"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
